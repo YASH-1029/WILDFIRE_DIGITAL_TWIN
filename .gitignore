@@ -1,0 +1,35 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+
+# Visual Studio
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.user
+*.tmp
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+.vscode/
+Assets/eventLogs.json
+Assets/ML-Agents/Timers/
+*.onnx
+Assets/Proxy Games/Stylized Nature Kit Lite/Misc/HDRI.hdr
