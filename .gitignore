@@ -33,3 +33,4 @@ Assets/eventLogs.json
 Assets/ML-Agents/Timers/
 *.onnx
 Assets/Proxy Games/Stylized Nature Kit Lite/Misc/HDRI.hdr
+*.pth
